@@ -23887,7 +23887,7 @@ The NEO-D9S can receive the data stream of a GNSS correction service, broadcast 
 <gate name="U1" symbol="NEO-D9S" x="0" y="0"/>
 </gates>
 <devices>
-<device name="" package="NEO-M9N/M8T/M8U/D9S">
+<device name="-00B" package="NEO-M9N/M8T/M8U/D9S">
 <connects>
 <connect gate="U1" pin="!ANT_SHORT!" pad="16"/>
 <connect gate="U1" pin="!RESET!" pad="8"/>
@@ -23913,7 +23913,7 @@ The NEO-D9S can receive the data stream of a GNSS correction service, broadcast 
 </connects>
 <technologies>
 <technology name="">
-<attribute name="PROD_ID" value="IC-" constant="no"/>
+<attribute name="PROD_ID" value="IC-16579" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -24021,7 +24021,7 @@ The NEO-D9S can receive the data stream of a GNSS correction service, broadcast 
 <part name="C6" library="SparkFun-Capacitors" deviceset="1.0UF" device="-0603-16V-10%" value="1.0uF"/>
 <part name="GND2" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="SUPPLY10" library="SparkFun-PowerSymbols" deviceset="3.3V" device=""/>
-<part name="U1" library="SparkFun-GPS" deviceset="U-BLOX_NEO-D9S" device=""/>
+<part name="U1" library="SparkFun-GPS" deviceset="U-BLOX_NEO-D9S" device="-00B"/>
 </parts>
 <sheets>
 <sheet>

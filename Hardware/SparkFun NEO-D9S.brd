@@ -10205,9 +10205,9 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <attribute name="PROD_ID" value="CAP-00868" x="31.75" y="19.558" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="VALUE" x="30.48" y="18.796" size="0.6096" layer="27" font="vector" ratio="20" align="top-center"/>
 </element>
-<element name="U1" library="SparkFun-GPS" package="NEO-M9N/M8T/M8U/D9S" value="U-BLOX_NEO-D9S" x="20.955" y="19.558" smashed="yes">
+<element name="U1" library="SparkFun-GPS" package="NEO-M9N/M8T/M8U/D9S" value="U-BLOX_NEO-D9S-00B" x="20.955" y="19.558" smashed="yes">
 <attribute name="NAME" x="14.855" y="28.058" size="0.508" layer="25"/>
-<attribute name="PROD_ID" value="IC-" x="20.955" y="19.558" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
+<attribute name="PROD_ID" value="IC-16579" x="20.955" y="19.558" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="VALUE" x="14.855" y="10.558" size="0.508" layer="27"/>
 </element>
 <element name="U$30" library="output" package="#TXD1#POCI#0" value="" x="29.21" y="2.032" smashed="yes" rot="R90"/>
