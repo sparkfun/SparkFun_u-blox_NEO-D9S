@@ -463,56 +463,6 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <rectangle x1="0.3302" y1="-0.4699" x2="0.8303" y2="0.4801" layer="51"/>
 <rectangle x1="-0.1999" y1="-0.3" x2="0.1999" y2="0.3" layer="35"/>
 </package>
-<package name="0402_NO_CREAM">
-<description>&lt;p&gt;&lt;b&gt;Generic 1005 (0402) package&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;0.2mm courtyard excess rounded to nearest 0.05mm.&lt;/p&gt;</description>
-<wire x1="-0.2704" y1="0.2286" x2="0.2704" y2="0.2286" width="0.1524" layer="51"/>
-<wire x1="0.2704" y1="-0.2286" x2="-0.2704" y2="-0.2286" width="0.1524" layer="51"/>
-<wire x1="-1.2" y1="0.65" x2="1.2" y2="0.65" width="0.0508" layer="39"/>
-<wire x1="1.2" y1="0.65" x2="1.2" y2="-0.65" width="0.0508" layer="39"/>
-<wire x1="1.2" y1="-0.65" x2="-1.2" y2="-0.65" width="0.0508" layer="39"/>
-<wire x1="-1.2" y1="-0.65" x2="-1.2" y2="0.65" width="0.0508" layer="39"/>
-<smd name="1" x="-0.58" y="0" dx="0.85" dy="0.9" layer="1" cream="no"/>
-<smd name="2" x="0.58" y="0" dx="0.85" dy="0.9" layer="1" cream="no"/>
-<text x="0" y="0.762" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center">&gt;NAME</text>
-<text x="0" y="-0.762" size="0.6096" layer="27" font="vector" ratio="20" align="top-center">&gt;VALUE</text>
-<rectangle x1="-0.554" y1="-0.3048" x2="-0.254" y2="0.3048" layer="51"/>
-<rectangle x1="0.2588" y1="-0.3048" x2="0.5588" y2="0.3048" layer="51"/>
-<rectangle x1="-0.1999" y1="-0.3" x2="0.1999" y2="0.3" layer="35"/>
-</package>
-<package name="0402-TIGHT_NO_CREAM">
-<smd name="1" x="-0.5" y="0" dx="0.6" dy="0.6" layer="1" cream="no"/>
-<smd name="2" x="0.5" y="0" dx="0.6" dy="0.6" layer="1" cream="no"/>
-<text x="0" y="0.562" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center">&gt;NAME</text>
-<text x="0" y="-0.562" size="0.6096" layer="27" font="vector" ratio="20" align="top-center">&gt;VALUE</text>
-<wire x1="-0.5" y1="-0.25" x2="-0.5" y2="0.25" width="0.002540625" layer="51"/>
-<wire x1="-0.5" y1="0.25" x2="0.5" y2="0.25" width="0.002540625" layer="51"/>
-<wire x1="0.5" y1="0.25" x2="0.5" y2="-0.25" width="0.002540625" layer="51"/>
-<wire x1="0.5" y1="-0.25" x2="-0.5" y2="-0.25" width="0.002540625" layer="51"/>
-<rectangle x1="-0.5" y1="-0.25" x2="-0.3" y2="0.25" layer="51"/>
-<rectangle x1="0.3" y1="-0.25" x2="0.5" y2="0.25" layer="51" rot="R180"/>
-<wire x1="0.9262" y1="0.4262" x2="-0.9262" y2="0.4262" width="0.05" layer="39"/>
-<wire x1="-0.9262" y1="0.4262" x2="-0.9262" y2="-0.4262" width="0.05" layer="39"/>
-<wire x1="-0.9262" y1="-0.4262" x2="0.9262" y2="-0.4262" width="0.05" layer="39"/>
-<wire x1="0.9262" y1="-0.4262" x2="0.9262" y2="0.4262" width="0.05" layer="39"/>
-</package>
-<package name="0603_NO_CREAM">
-<description>&lt;p&gt;&lt;b&gt;Generic 1608 (0603) package&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;0.2mm courtyard excess rounded to nearest 0.05mm.&lt;/p&gt;</description>
-<wire x1="-1.6" y1="0.7" x2="1.6" y2="0.7" width="0.0508" layer="39"/>
-<wire x1="1.6" y1="0.7" x2="1.6" y2="-0.7" width="0.0508" layer="39"/>
-<wire x1="1.6" y1="-0.7" x2="-1.6" y2="-0.7" width="0.0508" layer="39"/>
-<wire x1="-1.6" y1="-0.7" x2="-1.6" y2="0.7" width="0.0508" layer="39"/>
-<wire x1="-0.356" y1="0.432" x2="0.356" y2="0.432" width="0.1016" layer="51"/>
-<wire x1="-0.356" y1="-0.419" x2="0.356" y2="-0.419" width="0.1016" layer="51"/>
-<smd name="1" x="-0.85" y="0" dx="1.1" dy="1" layer="1" cream="no"/>
-<smd name="2" x="0.85" y="0" dx="1.1" dy="1" layer="1" cream="no"/>
-<text x="0" y="0.762" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center">&gt;NAME</text>
-<text x="0" y="-0.762" size="0.6096" layer="27" font="vector" ratio="20" align="top-center">&gt;VALUE</text>
-<rectangle x1="-0.8382" y1="-0.4699" x2="-0.3381" y2="0.4801" layer="51"/>
-<rectangle x1="0.3302" y1="-0.4699" x2="0.8303" y2="0.4801" layer="51"/>
-<rectangle x1="-0.1999" y1="-0.3" x2="0.1999" y2="0.3" layer="35"/>
-</package>
 </packages>
 <symbols>
 <symbol name="RESISTOR">
@@ -948,81 +898,6 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <technology name="">
 <attribute name="PROD_ID" value="RES-14340" constant="no"/>
 <attribute name="VALUE" value="5.1k" constant="no"/>
-</technology>
-</technologies>
-</device>
-</devices>
-</deviceset>
-<deviceset name="DNP" prefix="R">
-<description>&lt;h3&gt;Do-Not-Populate resistor&lt;/h3&gt;
-&lt;p&gt;A resistor is a passive two-terminal electrical component that implements electrical resistance as a circuit element. Resistors act to reduce current flow, and, at the same time, act to lower voltage levels within circuits. - Wikipedia&lt;/p&gt;</description>
-<gates>
-<gate name="G$1" symbol="RESISTOR" x="0" y="0"/>
-</gates>
-<devices>
-<device name="-0603" package="0603">
-<connects>
-<connect gate="G$1" pin="1" pad="1"/>
-<connect gate="G$1" pin="2" pad="2"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="VALUE" value="DNP"/>
-</technology>
-</technologies>
-</device>
-<device name="-0402" package="0402">
-<connects>
-<connect gate="G$1" pin="1" pad="1"/>
-<connect gate="G$1" pin="2" pad="2"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="VALUE" value="DNP" constant="no"/>
-</technology>
-</technologies>
-</device>
-<device name="-0402T" package="0402-TIGHT">
-<connects>
-<connect gate="G$1" pin="1" pad="1"/>
-<connect gate="G$1" pin="2" pad="2"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="VALUE" value="DNP" constant="no"/>
-</technology>
-</technologies>
-</device>
-<device name="-0402_NO_CREAM" package="0402_NO_CREAM">
-<connects>
-<connect gate="G$1" pin="1" pad="1"/>
-<connect gate="G$1" pin="2" pad="2"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="VALUE" value="DNP" constant="no"/>
-</technology>
-</technologies>
-</device>
-<device name="-0402T_NO_CREAM" package="0402-TIGHT_NO_CREAM">
-<connects>
-<connect gate="G$1" pin="1" pad="1"/>
-<connect gate="G$1" pin="2" pad="2"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="VALUE" value="DNP" constant="no"/>
-</technology>
-</technologies>
-</device>
-<device name="-0603_NO_CREAM" package="0603_NO_CREAM">
-<connects>
-<connect gate="G$1" pin="1" pad="1"/>
-<connect gate="G$1" pin="2" pad="2"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="VALUE" value="DNP" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -23708,6 +23583,51 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="1.5" y1="-0.8" x2="-1.5" y2="-0.8" width="0.0508" layer="39"/>
 <wire x1="-1.5" y1="-0.8" x2="-1.5" y2="0.8" width="0.0508" layer="39"/>
 </package>
+<package name="0603_NO-CREAM">
+<description>&lt;p&gt;&lt;b&gt;Generic 1608 (0603) package&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;0.2mm courtyard excess rounded to nearest 0.05mm.&lt;/p&gt;</description>
+<wire x1="-1.6" y1="0.7" x2="1.6" y2="0.7" width="0.0508" layer="39"/>
+<wire x1="1.6" y1="0.7" x2="1.6" y2="-0.7" width="0.0508" layer="39"/>
+<wire x1="1.6" y1="-0.7" x2="-1.6" y2="-0.7" width="0.0508" layer="39"/>
+<wire x1="-1.6" y1="-0.7" x2="-1.6" y2="0.7" width="0.0508" layer="39"/>
+<wire x1="-0.356" y1="0.432" x2="0.356" y2="0.432" width="0.1016" layer="51"/>
+<wire x1="-0.356" y1="-0.419" x2="0.356" y2="-0.419" width="0.1016" layer="51"/>
+<smd name="1" x="-0.85" y="0" dx="1.1" dy="1" layer="1" cream="no"/>
+<smd name="2" x="0.85" y="0" dx="1.1" dy="1" layer="1" cream="no"/>
+<text x="0" y="0.762" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center">&gt;NAME</text>
+<text x="0" y="-0.762" size="0.6096" layer="27" font="vector" ratio="20" align="top-center">&gt;VALUE</text>
+<rectangle x1="-0.8382" y1="-0.4699" x2="-0.3381" y2="0.4801" layer="51"/>
+<rectangle x1="0.3302" y1="-0.4699" x2="0.8303" y2="0.4801" layer="51"/>
+<rectangle x1="-0.1999" y1="-0.3" x2="0.1999" y2="0.3" layer="35"/>
+</package>
+<package name="0402-TIGHT_NO-CREAM">
+<smd name="1" x="-0.5" y="0" dx="0.6" dy="0.6" layer="1" cream="no"/>
+<smd name="2" x="0.5" y="0" dx="0.6" dy="0.6" layer="1" cream="no"/>
+<text x="0" y="0.562" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center">&gt;NAME</text>
+<text x="0" y="-0.562" size="0.6096" layer="27" font="vector" ratio="20" align="top-center">&gt;VALUE</text>
+<wire x1="-0.5" y1="-0.25" x2="-0.5" y2="0.25" width="0.002540625" layer="51"/>
+<wire x1="-0.5" y1="0.25" x2="0.5" y2="0.25" width="0.002540625" layer="51"/>
+<wire x1="0.5" y1="0.25" x2="0.5" y2="-0.25" width="0.002540625" layer="51"/>
+<wire x1="0.5" y1="-0.25" x2="-0.5" y2="-0.25" width="0.002540625" layer="51"/>
+<rectangle x1="-0.5" y1="-0.25" x2="-0.3" y2="0.25" layer="51"/>
+<rectangle x1="0.3" y1="-0.25" x2="0.5" y2="0.25" layer="51" rot="R180"/>
+<wire x1="0.9262" y1="0.4262" x2="-0.9262" y2="0.4262" width="0.05" layer="39"/>
+<wire x1="-0.9262" y1="0.4262" x2="-0.9262" y2="-0.4262" width="0.05" layer="39"/>
+<wire x1="-0.9262" y1="-0.4262" x2="0.9262" y2="-0.4262" width="0.05" layer="39"/>
+<wire x1="0.9262" y1="-0.4262" x2="0.9262" y2="0.4262" width="0.05" layer="39"/>
+</package>
+<package name="0805_NO-CREAM">
+<description>&lt;p&gt;&lt;b&gt;Generic 2012 (0805) package&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;0.2mm courtyard excess rounded to nearest 0.05mm.&lt;/p&gt;</description>
+<smd name="1" x="-0.9" y="0" dx="0.8" dy="1.2" layer="1" cream="no"/>
+<smd name="2" x="0.9" y="0" dx="0.8" dy="1.2" layer="1" cream="no"/>
+<text x="0" y="0.889" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center">&gt;NAME</text>
+<text x="0" y="-0.889" size="0.6096" layer="27" font="vector" ratio="20" align="top-center">&gt;VALUE</text>
+<wire x1="-1.5" y1="0.8" x2="1.5" y2="0.8" width="0.0508" layer="39"/>
+<wire x1="1.5" y1="0.8" x2="1.5" y2="-0.8" width="0.0508" layer="39"/>
+<wire x1="1.5" y1="-0.8" x2="-1.5" y2="-0.8" width="0.0508" layer="39"/>
+<wire x1="-1.5" y1="-0.8" x2="-1.5" y2="0.8" width="0.0508" layer="39"/>
+</package>
 </packages>
 <symbols>
 <symbol name="FERRITE_BEAD">
@@ -23723,6 +23643,18 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="0" y1="-1.27" x2="0" y2="-2.54" width="0.1524" layer="94" curve="-180"/>
 <wire x1="0.889" y1="2.54" x2="0.889" y2="-2.54" width="0.1524" layer="94"/>
 <wire x1="1.143" y1="2.54" x2="1.143" y2="-2.54" width="0.1524" layer="94"/>
+</symbol>
+<symbol name="INDUCTOR">
+<description>&lt;h3&gt;Inductors&lt;/h3&gt;
+&lt;p&gt;Resist changes in electrical current. Basically a coil of wire.&lt;/p&gt;</description>
+<text x="1.27" y="2.54" size="1.778" layer="95" font="vector">&gt;NAME</text>
+<text x="1.27" y="-2.54" size="1.778" layer="96" font="vector" align="top-left">&gt;VALUE</text>
+<pin name="1" x="0" y="5.08" visible="off" length="short" direction="pas" swaplevel="1" rot="R270"/>
+<pin name="2" x="0" y="-5.08" visible="off" length="short" direction="pas" swaplevel="1" rot="R90"/>
+<wire x1="0" y1="2.54" x2="0" y2="1.27" width="0.1524" layer="94" curve="-180"/>
+<wire x1="0" y1="1.27" x2="0" y2="0" width="0.1524" layer="94" curve="-180"/>
+<wire x1="0" y1="0" x2="0" y2="-1.27" width="0.1524" layer="94" curve="-180"/>
+<wire x1="0" y1="-1.27" x2="0" y2="-2.54" width="0.1524" layer="94" curve="-180"/>
 </symbol>
 </symbols>
 <devicesets>
@@ -23817,6 +23749,90 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <technology name="">
 <attribute name="PROD_ID" value="NDUC-12579" constant="no"/>
 <attribute name="VALUE" value="470Ω" constant="no"/>
+</technology>
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="DNP">
+<gates>
+<gate name="L1" symbol="INDUCTOR" x="0" y="0"/>
+</gates>
+<devices>
+<device name="-0402" package="0402">
+<connects>
+<connect gate="L1" pin="1" pad="1"/>
+<connect gate="L1" pin="2" pad="2"/>
+</connects>
+<technologies>
+<technology name="">
+<attribute name="VALUE" value="DNP" constant="no"/>
+</technology>
+</technologies>
+</device>
+<device name="-0603" package="0603">
+<connects>
+<connect gate="L1" pin="1" pad="1"/>
+<connect gate="L1" pin="2" pad="2"/>
+</connects>
+<technologies>
+<technology name="">
+<attribute name="VALUE" value="DNP" constant="no"/>
+</technology>
+</technologies>
+</device>
+<device name="-0402-TIGHT_NO-CREAM" package="0402-TIGHT_NO-CREAM">
+<connects>
+<connect gate="L1" pin="1" pad="1"/>
+<connect gate="L1" pin="2" pad="2"/>
+</connects>
+<technologies>
+<technology name="">
+<attribute name="VALUE" value="DNP" constant="no"/>
+</technology>
+</technologies>
+</device>
+<device name="-0402-TIGHT" package="0402-TIGHT">
+<connects>
+<connect gate="L1" pin="1" pad="1"/>
+<connect gate="L1" pin="2" pad="2"/>
+</connects>
+<technologies>
+<technology name="">
+<attribute name="VALUE" value="DNP" constant="no"/>
+</technology>
+</technologies>
+</device>
+<device name="-0603_NO-CREAM" package="0603_NO-CREAM">
+<connects>
+<connect gate="L1" pin="1" pad="1"/>
+<connect gate="L1" pin="2" pad="2"/>
+</connects>
+<technologies>
+<technology name="">
+<attribute name="VALUE" value="DNP" constant="no"/>
+</technology>
+</technologies>
+</device>
+<device name="-0805" package="0805">
+<connects>
+<connect gate="L1" pin="1" pad="1"/>
+<connect gate="L1" pin="2" pad="2"/>
+</connects>
+<technologies>
+<technology name="">
+<attribute name="VALUE" value="DNP" constant="no"/>
+</technology>
+</technologies>
+</device>
+<device name="-0805_NO-CREAM" package="0805_NO-CREAM">
+<connects>
+<connect gate="L1" pin="1" pad="1"/>
+<connect gate="L1" pin="2" pad="2"/>
+</connects>
+<technologies>
+<technology name="">
+<attribute name="VALUE" value="DNP" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -25068,7 +25084,7 @@ The NEO-D9S can receive the data stream of a GNSS correction service, broadcast 
 <part name="U1" library="SparkFun-GPS" deviceset="U-BLOX_NEO-D9S" device="-00B"/>
 <part name="3V3" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NC_TRACE" device="_SILK" package3d_urn="urn:adsk.eagle:package:39281/1"/>
 <part name="SUPPLY14" library="SparkFun-PowerSymbols" deviceset="3.3V" device=""/>
-<part name="R15" library="SparkFun-Resistors" deviceset="DNP" device="-0603_NO_CREAM" value="DNP"/>
+<part name="L1" library="SparkFun-Coils" deviceset="DNP" device="-0603_NO-CREAM" value="DNP"/>
 <part name="C7" library="SparkFun-Capacitors" deviceset="47PF" device="-0603-50V-5%" value="47pF"/>
 </parts>
 <sheets>
@@ -25108,23 +25124,33 @@ enable SPI</text>
 isolate shield</text>
 <wire x1="33.02" y1="30.48" x2="38.1" y2="30.48" width="0.2032" layer="97" style="dashdot"/>
 <wire x1="38.1" y1="30.48" x2="38.1" y2="25.4" width="0.2032" layer="97" style="dashdot"/>
-<text x="187.96" y="99.06" size="1.778" layer="97" font="vector">50Ω</text>
-<text x="165.1" y="68.58" size="1.778" layer="97" font="vector">Cut track to disable
+<text x="175.26" y="99.06" size="1.778" layer="97" font="vector">50Ω</text>
+<text x="152.4" y="68.58" size="1.778" layer="97" font="vector">Cut track to disable
 VCC_RF antenna power</text>
-<wire x1="200.66" y1="85.09" x2="200.66" y2="68.58" width="0.2032" layer="97" style="dashdot"/>
-<wire x1="200.66" y1="68.58" x2="198.12" y2="68.58" width="0.2032" layer="97" style="dashdot"/>
-<wire x1="203.2" y1="85.09" x2="200.66" y2="85.09" width="0.2032" layer="97" style="dashdot"/>
+<wire x1="187.96" y1="85.09" x2="187.96" y2="68.58" width="0.2032" layer="97" style="dashdot"/>
+<wire x1="187.96" y1="68.58" x2="185.42" y2="68.58" width="0.2032" layer="97" style="dashdot"/>
+<wire x1="190.5" y1="85.09" x2="187.96" y2="85.09" width="0.2032" layer="97" style="dashdot"/>
 <polygon width="0.0762" layer="97">
-<vertex x="203.2" y="86.36"/>
-<vertex x="203.2" y="83.82"/>
-<vertex x="204.47" y="85.09"/>
+<vertex x="190.5" y="86.36"/>
+<vertex x="190.5" y="83.82"/>
+<vertex x="191.77" y="85.09"/>
 </polygon>
 <polygon width="0.0762" layer="97">
-<vertex x="208.28" y="86.36"/>
-<vertex x="208.28" y="83.82"/>
-<vertex x="207.01" y="85.09"/>
+<vertex x="195.58" y="86.36"/>
+<vertex x="195.58" y="83.82"/>
+<vertex x="194.31" y="85.09"/>
 </polygon>
 <text x="13.97" y="132.08" size="1.778" layer="97" font="vector">90Ω</text>
+<text x="243.84" y="78.74" size="1.778" layer="97" font="vector" align="bottom-right">When populating L1:
+use an 0603 part with
+impedance &gt; 500 Ohms
+at 1.5GHz</text>
+<text x="205.74" y="134.62" size="1.27" layer="97" font="vector" align="top-left">AP2112K-3.3V
+-------------
+Iout (max): 600mA 
+Vin (max): 6.5V
+Vdrop (max): 250mV
+Iq: 55uA</text>
 </plain>
 <instances>
 <instance part="JP31" gate="G$1" x="246.38" y="30.48" smashed="yes"/>
@@ -25201,8 +25227,8 @@ VCC_RF antenna power</text>
 <instance part="GND15" gate="1" x="137.16" y="127" smashed="yes">
 <attribute name="VALUE" x="137.16" y="126.746" size="1.778" layer="96" align="top-center"/>
 </instance>
-<instance part="GND27" gate="1" x="182.88" y="93.98" smashed="yes">
-<attribute name="VALUE" x="182.88" y="93.726" size="1.778" layer="96" font="vector" align="top-center"/>
+<instance part="GND27" gate="1" x="170.18" y="93.98" smashed="yes">
+<attribute name="VALUE" x="170.18" y="93.726" size="1.778" layer="96" font="vector" align="top-center"/>
 </instance>
 <instance part="C4" gate="G$1" x="226.06" y="144.78" smashed="yes">
 <attribute name="NAME" x="227.584" y="147.701" size="1.778" layer="95" font="vector"/>
@@ -25260,20 +25286,20 @@ VCC_RF antenna power</text>
 <instance part="SPI" gate="G$1" x="38.1" y="15.24" smashed="yes">
 <attribute name="NAME" x="35.56" y="17.78" size="1.778" layer="95" font="vector" rot="R180"/>
 </instance>
-<instance part="C1" gate="G$1" x="213.36" y="73.66" smashed="yes" rot="R90">
-<attribute name="NAME" x="216.916" y="72.009" size="1.778" layer="95" font="vector" rot="R180"/>
-<attribute name="VALUE" x="210.566" y="72.009" size="1.778" layer="96" font="vector" rot="R180"/>
+<instance part="C1" gate="G$1" x="200.66" y="73.66" smashed="yes" rot="R90">
+<attribute name="NAME" x="204.216" y="72.009" size="1.778" layer="95" font="vector" rot="R180"/>
+<attribute name="VALUE" x="197.866" y="72.009" size="1.778" layer="96" font="vector" rot="R180"/>
 </instance>
-<instance part="R14" gate="G$1" x="213.36" y="78.74" smashed="yes">
-<attribute name="NAME" x="209.55" y="80.264" size="1.778" layer="95" font="vector" align="bottom-center"/>
-<attribute name="VALUE" x="217.17" y="82.296" size="1.778" layer="96" font="vector" align="top-center"/>
+<instance part="R14" gate="G$1" x="200.66" y="78.74" smashed="yes">
+<attribute name="NAME" x="196.85" y="80.264" size="1.778" layer="95" font="vector" align="bottom-center"/>
+<attribute name="VALUE" x="204.47" y="82.296" size="1.778" layer="96" font="vector" align="top-center"/>
 </instance>
-<instance part="GND18" gate="1" x="218.44" y="68.58" smashed="yes">
-<attribute name="VALUE" x="218.44" y="68.326" size="1.778" layer="96" font="vector" align="top-center"/>
+<instance part="GND18" gate="1" x="205.74" y="68.58" smashed="yes">
+<attribute name="VALUE" x="205.74" y="68.326" size="1.778" layer="96" font="vector" align="top-center"/>
 </instance>
-<instance part="FB1" gate="G$1" x="205.74" y="91.44" smashed="yes">
-<attribute name="NAME" x="207.01" y="93.98" size="1.778" layer="95" font="vector"/>
-<attribute name="VALUE" x="207.01" y="88.9" size="1.778" layer="96" font="vector" align="top-left"/>
+<instance part="FB1" gate="G$1" x="193.04" y="91.44" smashed="yes">
+<attribute name="NAME" x="194.31" y="93.98" size="1.778" layer="95" font="vector"/>
+<attribute name="VALUE" x="194.31" y="88.9" size="1.778" layer="96" font="vector" align="top-left"/>
 </instance>
 <instance part="PWR\" gate="G$1" x="45.72" y="45.72" smashed="yes">
 <attribute name="NAME" x="43.688" y="47.879" size="1.778" layer="95" font="vector" rot="R180"/>
@@ -25308,8 +25334,8 @@ VCC_RF antenna power</text>
 <attribute name="NAME" x="69.342" y="142.494" size="1.778" layer="95" font="vector" align="bottom-center"/>
 <attribute name="VALUE" x="78.232" y="142.494" size="1.778" layer="96" font="vector" rot="R180" align="top-center"/>
 </instance>
-<instance part="J1" gate="G$1" x="185.42" y="101.6" smashed="yes" rot="MR0">
-<attribute name="NAME" x="182.372" y="101.6" size="1.778" layer="95" font="vector" rot="MR0"/>
+<instance part="J1" gate="G$1" x="172.72" y="101.6" smashed="yes" rot="MR0">
+<attribute name="NAME" x="177.292" y="102.87" size="1.778" layer="95" font="vector" rot="MR0"/>
 </instance>
 <instance part="J5" gate="G$1" x="93.98" y="22.86" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="99.06" y="12.954" size="1.778" layer="96" font="vector" rot="MR0"/>
@@ -25335,8 +25361,8 @@ VCC_RF antenna power</text>
 <attribute name="VALUE" x="137.16" y="61.214" size="1.778" layer="96" font="vector" rot="MR0"/>
 <attribute name="NAME" x="137.16" y="84.328" size="1.778" layer="95" font="vector" rot="MR0"/>
 </instance>
-<instance part="GND10" gate="1" x="124.46" y="53.34" smashed="yes" rot="MR0">
-<attribute name="VALUE" x="124.46" y="53.086" size="1.778" layer="96" rot="MR0" align="top-center"/>
+<instance part="GND10" gate="1" x="121.92" y="53.34" smashed="yes" rot="MR0">
+<attribute name="VALUE" x="121.92" y="53.086" size="1.778" layer="96" rot="MR0" align="top-center"/>
 </instance>
 <instance part="SUPPLY7" gate="G$1" x="124.46" y="83.82" smashed="yes">
 <attribute name="VALUE" x="124.46" y="86.614" size="1.778" layer="96" align="bottom-center"/>
@@ -25351,12 +25377,12 @@ VCC_RF antenna power</text>
 <instance part="SHLD" gate="G$1" x="38.1" y="22.86" smashed="yes">
 <attribute name="NAME" x="36.068" y="25.019" size="1.778" layer="95" font="vector" rot="R180"/>
 </instance>
-<instance part="D1" gate="D1" x="195.58" y="93.98" smashed="yes" rot="R270">
-<attribute name="NAME" x="198.374" y="96.52" size="1.778" layer="95" font="vector" rot="R270"/>
-<attribute name="VALUE" x="191.516" y="97.79" size="1.778" layer="96" font="vector" rot="R270" align="top-left"/>
+<instance part="D1" gate="D1" x="182.88" y="93.98" smashed="yes" rot="R270">
+<attribute name="NAME" x="185.674" y="96.52" size="1.778" layer="95" font="vector" rot="R270"/>
+<attribute name="VALUE" x="178.816" y="97.79" size="1.778" layer="96" font="vector" rot="R270" align="top-left"/>
 </instance>
-<instance part="GND12" gate="1" x="195.58" y="83.82" smashed="yes">
-<attribute name="VALUE" x="195.58" y="83.566" size="1.778" layer="96" font="vector" align="top-center"/>
+<instance part="GND12" gate="1" x="182.88" y="83.82" smashed="yes">
+<attribute name="VALUE" x="182.88" y="83.566" size="1.778" layer="96" font="vector" align="top-center"/>
 </instance>
 <instance part="SUPPLY11" gate="G$1" x="127" y="157.48" smashed="yes">
 <attribute name="VALUE" x="127" y="160.274" size="1.778" layer="96" font="vector" align="bottom-center"/>
@@ -25399,13 +25425,13 @@ VCC_RF antenna power</text>
 <instance part="SUPPLY14" gate="G$1" x="73.66" y="25.4" smashed="yes">
 <attribute name="VALUE" x="73.66" y="28.194" size="1.778" layer="96" font="vector" align="bottom-center"/>
 </instance>
-<instance part="R15" gate="G$1" x="223.52" y="91.44" smashed="yes">
-<attribute name="NAME" x="223.52" y="92.964" size="1.778" layer="95" font="vector" align="bottom-center"/>
-<attribute name="VALUE" x="223.52" y="89.916" size="1.778" layer="96" font="vector" align="top-center"/>
+<instance part="L1" gate="L1" x="210.82" y="91.44" smashed="yes" rot="R90">
+<attribute name="NAME" x="212.09" y="90.17" size="1.778" layer="95" font="vector" rot="R180"/>
+<attribute name="VALUE" x="213.36" y="92.71" size="1.778" layer="96" font="vector" rot="R180" align="top-left"/>
 </instance>
-<instance part="C7" gate="G$1" x="223.52" y="99.06" smashed="yes" rot="R90">
-<attribute name="NAME" x="220.599" y="100.584" size="1.778" layer="95" font="vector" rot="R90"/>
-<attribute name="VALUE" x="225.679" y="100.584" size="1.778" layer="96" font="vector" rot="R90"/>
+<instance part="C7" gate="G$1" x="210.82" y="99.06" smashed="yes" rot="R90">
+<attribute name="NAME" x="207.899" y="100.584" size="1.778" layer="95" font="vector" rot="R90"/>
+<attribute name="VALUE" x="212.979" y="100.584" size="1.778" layer="96" font="vector" rot="R90"/>
 </instance>
 </instances>
 <busses>
@@ -25455,12 +25481,6 @@ VCC_RF antenna power</text>
 <wire x1="109.22" y1="17.78" x2="109.22" y2="20.32" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="J7" gate="J1" pin="2"/>
-<wire x1="127" y1="60.96" x2="124.46" y2="60.96" width="0.1524" layer="91"/>
-<pinref part="SUPPLY7" gate="G$1" pin="3.3V"/>
-<wire x1="124.46" y1="60.96" x2="124.46" y2="83.82" width="0.1524" layer="91"/>
-</segment>
-<segment>
 <pinref part="SUPPLY10" gate="G$1" pin="3.3V"/>
 <pinref part="C6" gate="G$1" pin="1"/>
 <wire x1="10.16" y1="154.94" x2="10.16" y2="157.48" width="0.1524" layer="91"/>
@@ -25486,6 +25506,12 @@ VCC_RF antenna power</text>
 <wire x1="73.66" y1="25.4" x2="73.66" y2="22.86" width="0.1524" layer="91"/>
 <pinref part="3V3" gate="G$1" pin="2"/>
 <wire x1="73.66" y1="22.86" x2="76.2" y2="22.86" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="SUPPLY7" gate="G$1" pin="3.3V"/>
+<wire x1="124.46" y1="83.82" x2="124.46" y2="63.5" width="0.1524" layer="91"/>
+<pinref part="J7" gate="J1" pin="3"/>
+<wire x1="124.46" y1="63.5" x2="127" y2="63.5" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="GND" class="0">
@@ -25525,8 +25551,8 @@ VCC_RF antenna power</text>
 <segment>
 <pinref part="C1" gate="G$1" pin="2"/>
 <pinref part="GND18" gate="1" pin="GND"/>
-<wire x1="218.44" y1="71.12" x2="218.44" y2="73.66" width="0.1524" layer="91"/>
-<wire x1="218.44" y1="73.66" x2="215.9" y2="73.66" width="0.1524" layer="91"/>
+<wire x1="205.74" y1="71.12" x2="205.74" y2="73.66" width="0.1524" layer="91"/>
+<wire x1="205.74" y1="73.66" x2="203.2" y2="73.66" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="GND3" gate="1" pin="GND"/>
@@ -25563,12 +25589,6 @@ VCC_RF antenna power</text>
 <wire x1="124.46" y1="12.7" x2="124.46" y2="10.16" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="J7" gate="J1" pin="1"/>
-<wire x1="127" y1="58.42" x2="124.46" y2="58.42" width="0.1524" layer="91"/>
-<pinref part="GND10" gate="1" pin="GND"/>
-<wire x1="124.46" y1="58.42" x2="124.46" y2="55.88" width="0.1524" layer="91"/>
-</segment>
-<segment>
 <pinref part="C3" gate="G$1" pin="2"/>
 <pinref part="GND1" gate="1" pin="GND"/>
 <wire x1="20.32" y1="162.56" x2="17.78" y2="162.56" width="0.1524" layer="91"/>
@@ -25577,7 +25597,7 @@ VCC_RF antenna power</text>
 <segment>
 <pinref part="D1" gate="D1" pin="2"/>
 <pinref part="GND12" gate="1" pin="GND"/>
-<wire x1="195.58" y1="88.9" x2="195.58" y2="86.36" width="0.1524" layer="91"/>
+<wire x1="182.88" y1="88.9" x2="182.88" y2="86.36" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="J3" gate="J1" pin="GND"/>
@@ -25588,7 +25608,7 @@ VCC_RF antenna power</text>
 <segment>
 <pinref part="J1" gate="G$1" pin="GND"/>
 <pinref part="GND27" gate="1" pin="GND"/>
-<wire x1="182.88" y1="99.06" x2="182.88" y2="96.52" width="0.1524" layer="91"/>
+<wire x1="170.18" y1="99.06" x2="170.18" y2="96.52" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="LED1" gate="G$1" pin="C"/>
@@ -25611,6 +25631,12 @@ VCC_RF antenna power</text>
 <pinref part="C6" gate="G$1" pin="2"/>
 <pinref part="GND2" gate="1" pin="GND"/>
 <wire x1="10.16" y1="147.32" x2="10.16" y2="144.78" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="J7" gate="J1" pin="4"/>
+<wire x1="127" y1="66.04" x2="121.92" y2="66.04" width="0.1524" layer="91"/>
+<pinref part="GND10" gate="1" pin="GND"/>
+<wire x1="121.92" y1="66.04" x2="121.92" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="SCL/SCK" class="0">
@@ -25641,9 +25667,9 @@ VCC_RF antenna power</text>
 <label x="121.92" y="33.02" size="1.27" layer="95" font="vector" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<pinref part="J7" gate="J1" pin="4"/>
-<wire x1="127" y1="66.04" x2="121.92" y2="66.04" width="0.1524" layer="91"/>
-<label x="121.92" y="66.04" size="1.27" layer="95" font="vector" rot="R180" xref="yes"/>
+<label x="119.38" y="58.42" size="1.27" layer="95" font="vector" rot="R180" xref="yes"/>
+<pinref part="J7" gate="J1" pin="1"/>
+<wire x1="127" y1="58.42" x2="119.38" y2="58.42" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$5" class="0">
@@ -25732,8 +25758,8 @@ VCC_RF antenna power</text>
 </segment>
 <segment>
 <pinref part="C7" gate="G$1" pin="2"/>
-<wire x1="226.06" y1="99.06" x2="228.6" y2="99.06" width="0.1524" layer="91"/>
-<label x="228.6" y="99.06" size="1.27" layer="95" xref="yes"/>
+<wire x1="213.36" y1="99.06" x2="215.9" y2="99.06" width="0.1524" layer="91"/>
+<label x="215.9" y="99.06" size="1.27" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="N$10" class="0">
@@ -25812,19 +25838,19 @@ VCC_RF antenna power</text>
 </segment>
 <segment>
 <pinref part="R14" gate="G$1" pin="2"/>
-<wire x1="220.98" y1="78.74" x2="218.44" y2="78.74" width="0.1524" layer="91"/>
-<label x="220.98" y="78.74" size="1.27" layer="95" xref="yes"/>
+<wire x1="208.28" y1="78.74" x2="205.74" y2="78.74" width="0.1524" layer="91"/>
+<label x="208.28" y="78.74" size="1.27" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="ANT_VCC" class="0">
 <segment>
 <pinref part="R14" gate="G$1" pin="1"/>
-<wire x1="208.28" y1="78.74" x2="205.74" y2="78.74" width="0.1524" layer="91"/>
+<wire x1="195.58" y1="78.74" x2="193.04" y2="78.74" width="0.1524" layer="91"/>
 <pinref part="C1" gate="G$1" pin="1"/>
-<wire x1="205.74" y1="78.74" x2="205.74" y2="73.66" width="0.1524" layer="91"/>
-<wire x1="205.74" y1="73.66" x2="208.28" y2="73.66" width="0.1524" layer="91"/>
-<wire x1="205.74" y1="86.36" x2="205.74" y2="78.74" width="0.1524" layer="91"/>
-<junction x="205.74" y="78.74"/>
+<wire x1="193.04" y1="78.74" x2="193.04" y2="73.66" width="0.1524" layer="91"/>
+<wire x1="193.04" y1="73.66" x2="195.58" y2="73.66" width="0.1524" layer="91"/>
+<wire x1="193.04" y1="86.36" x2="193.04" y2="78.74" width="0.1524" layer="91"/>
+<junction x="193.04" y="78.74"/>
 <pinref part="FB1" gate="G$1" pin="2"/>
 </segment>
 </net>
@@ -25977,9 +26003,9 @@ VCC_RF antenna power</text>
 <label x="38.1" y="66.04" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
-<pinref part="J7" gate="J1" pin="3"/>
-<wire x1="127" y1="63.5" x2="121.92" y2="63.5" width="0.1524" layer="91"/>
-<label x="121.92" y="63.5" size="1.27" layer="95" font="vector" rot="R180" xref="yes"/>
+<label x="119.38" y="60.96" size="1.27" layer="95" font="vector" rot="R180" xref="yes"/>
+<pinref part="J7" gate="J1" pin="2"/>
+<wire x1="127" y1="60.96" x2="119.38" y2="60.96" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="!RESET!" class="0">
@@ -26036,29 +26062,29 @@ VCC_RF antenna power</text>
 <label x="121.92" y="81.28" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<pinref part="R15" gate="G$1" pin="2"/>
-<wire x1="228.6" y1="91.44" x2="231.14" y2="91.44" width="0.1524" layer="91"/>
-<label x="231.14" y="91.44" size="1.27" layer="95" xref="yes"/>
+<pinref part="L1" gate="L1" pin="2"/>
+<wire x1="215.9" y1="91.44" x2="218.44" y2="91.44" width="0.1524" layer="91"/>
+<label x="218.44" y="91.44" size="1.27" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="SMA" class="0">
 <segment>
-<wire x1="205.74" y1="99.06" x2="195.58" y2="99.06" width="0.1524" layer="91"/>
-<wire x1="205.74" y1="99.06" x2="205.74" y2="96.52" width="0.1524" layer="91"/>
+<wire x1="193.04" y1="99.06" x2="182.88" y2="99.06" width="0.1524" layer="91"/>
+<wire x1="193.04" y1="99.06" x2="193.04" y2="96.52" width="0.1524" layer="91"/>
 <pinref part="FB1" gate="G$1" pin="1"/>
-<junction x="205.74" y="99.06"/>
+<junction x="193.04" y="99.06"/>
 <pinref part="D1" gate="D1" pin="1"/>
-<wire x1="215.9" y1="99.06" x2="205.74" y2="99.06" width="0.1524" layer="91"/>
-<wire x1="195.58" y1="96.52" x2="195.58" y2="99.06" width="0.1524" layer="91"/>
-<junction x="195.58" y="99.06"/>
+<wire x1="203.2" y1="99.06" x2="193.04" y2="99.06" width="0.1524" layer="91"/>
+<wire x1="182.88" y1="96.52" x2="182.88" y2="99.06" width="0.1524" layer="91"/>
+<junction x="182.88" y="99.06"/>
 <pinref part="J1" gate="G$1" pin="SIGNAL"/>
-<wire x1="185.42" y1="99.06" x2="195.58" y2="99.06" width="0.1524" layer="91"/>
-<pinref part="R15" gate="G$1" pin="1"/>
-<wire x1="218.44" y1="91.44" x2="215.9" y2="91.44" width="0.1524" layer="91"/>
-<wire x1="215.9" y1="91.44" x2="215.9" y2="99.06" width="0.1524" layer="91"/>
+<wire x1="172.72" y1="99.06" x2="182.88" y2="99.06" width="0.1524" layer="91"/>
+<pinref part="L1" gate="L1" pin="1"/>
+<wire x1="205.74" y1="91.44" x2="203.2" y2="91.44" width="0.1524" layer="91"/>
+<wire x1="203.2" y1="91.44" x2="203.2" y2="99.06" width="0.1524" layer="91"/>
 <pinref part="C7" gate="G$1" pin="1"/>
-<wire x1="218.44" y1="99.06" x2="215.9" y2="99.06" width="0.1524" layer="91"/>
-<junction x="215.9" y="99.06"/>
+<wire x1="205.74" y1="99.06" x2="203.2" y2="99.06" width="0.1524" layer="91"/>
+<junction x="203.2" y="99.06"/>
 </segment>
 </net>
 </nets>
