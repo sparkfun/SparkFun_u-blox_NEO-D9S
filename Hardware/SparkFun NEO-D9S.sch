@@ -25102,7 +25102,7 @@ enable SPI</text>
 <text x="171.704" y="11.176" size="2.54" layer="94" font="vector">Paul Clark</text>
 <text x="73.66" y="104.14" size="2.54" layer="94" font="vector">Headers</text>
 <text x="5.08" y="104.14" size="2.54" layer="94" font="vector">LED and Jumpers</text>
-<text x="5.08" y="177.8" size="2.54" layer="94" font="vector">u-Blox NEO-D9S</text>
+<text x="5.08" y="177.8" size="2.54" layer="94" font="vector">u-blox NEO-D9S</text>
 <wire x1="68.58" y1="111.76" x2="68.58" y2="0" width="0.1524" layer="97" style="shortdash"/>
 <wire x1="40.64" y1="53.34" x2="45.72" y2="53.34" width="0.2032" layer="97" style="dashdot"/>
 <wire x1="45.72" y1="53.34" x2="45.72" y2="48.26" width="0.2032" layer="97" style="dashdot"/>
