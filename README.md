@@ -14,7 +14,7 @@ Repository Contents
 
 Documentation
 --------------
-* **[Library](https://github.com/sparkfun/SparkFun_u-blox_GNSS_Arduino_Library)** - Arduino library for the <PRODUCT NAME>.
+* **[Library](https://github.com/sparkfun/SparkFun_u-blox_GNSS_Arduino_Library)** - Arduino library for the NEO-D9S.
   * **[NEO-D9S Code Example](https://github.com/sparkfun/SparkFun_u-blox_GNSS_Arduino_Library/blob/main/examples/Example30_NEO-D9S/Example30_NEO-D9S.ino)**
   * **[NEO-D9S + ZED-F9P Code Example](https://github.com/sparkfun/SparkFun_u-blox_GNSS_Arduino_Library/tree/main/examples/ZED-F9P/Example19_LBand_Corrections_with_NEO-D9S)**
 * **[Hookup Guide](Learn.SparkFun URL)** - Basic hookup guide for the NEO-D9S breakout board.
