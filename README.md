@@ -1,11 +1,11 @@
 SparkFun GNSS Correction Data Receiver - NEO-D9S (Qwiic)
 ========================================
 
-[![SparkFun GNSS Correction Data Receiver - NEO-D9S (Qwiic)](URL for picture of part)](https://www.sparkfun.com/products/19390)
+[![SparkFun GNSS Correction Data Receiver - NEO-D9S (Qwiic)](https://cdn.sparkfun.com/assets/parts/1/9/0/2/8/19390-NEO-D9S_Breakout-_01.jpg)](https://www.sparkfun.com/products/19390)
 
 [*SparkFun GNSS Correction Data Receiver - NEO-D9S (Qwiic) (GPS-19390)*](https://www.sparkfun.com/products/19390)
 
-A breakout for the u-blox NEO-D9S correction data receiver
+A breakout for the u-blox NEO-D9S correction data receiver.
 
 Repository Contents
 -------------------
